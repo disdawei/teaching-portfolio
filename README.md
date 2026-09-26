@@ -15,6 +15,7 @@ This repository is maintained primarily for personal documentation and professio
 2. MGS 3101 – Foundations of Business Analytics (UG, year 2)
 3. GMBA 5885 - Strategic Management Global Information Systems (GMBA)
 4. MGS 4701 - Integrative Applications of Business Analytics (UG, year 4)
+   
 (Additional courses and materials will be added over time)
 
 ## Use of Materials
