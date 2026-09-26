@@ -12,8 +12,10 @@ This repository is maintained primarily for personal documentation and professio
 
 ## Courses Included
 1. MGS 3001 – Python Programming for Business (UG Honors)
-2. MGS 3101 – Foundations of Business Analytics (UG)
-3. Additional courses and materials will be added over time
+2. MGS 3101 – Foundations of Business Analytics (UG, year 2)
+3. GMBA 5885 - Strategic Management Global Information Systems (GMBA)
+4. MGS 4701 - Integrative Applications of Business Analytics (UG, year 4)
+(Additional courses and materials will be added over time)
 
 ## Use of Materials
 The materials included here are selectively curated to represent my instructional design and curriculum development efforts.
